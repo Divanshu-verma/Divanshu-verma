@@ -1,6 +1,6 @@
-## Hola, I'm [Divanshu Verma!](https://Divanshu-verma.github.io/) 👋
+## Hi, I'm [Divanshu Verma!](https://Divanshu-verma.github.io/) 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="moneshvenkul" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamdivanshu&label=Views&color=blue&style=plastic" alt="Divanshu Verma" /> </p>
 
 
 <a href="https://www.linkedin.com/in/divanshu-verma-7968434a/">
@@ -18,21 +18,15 @@
 
 
 
-- 🔭 I’m currently working in [Seniour Software engg. at Microsoft]().
+- 🔭 I’m currently working in [Senior Software engg. at Microsoft]().
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCVyCaPU0sM9FopyMMLqohWQ).
 - 💬 Ask me about Full Stack Development or any tech related stuff.
 - 📫 How to reach me: [Linkedin - @Divanshu Verma](https://www.linkedin.com/in/divanshu-verma-7968434a/) , [Youtube - @Divanshu Verma](https://www.youtube.com/channel/UCVyCaPU0sM9FopyMMLqohWQ)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I would love to work with same minded people like me as a team.
-
-**Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
-
+- ⚡ Fun fact: Love to solve complex projects.
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### Lets Grow together.
 
 </div>
